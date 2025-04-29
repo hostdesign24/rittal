@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149199-e1523890.adobeaemcloud.com/crx/de/bin/franklin.delivery/hostdesign24/rittal/main"
+    url: "https://author-p149199-e1523890.adobeaemcloud.com/bin/franklin.delivery/hostdesign24/rittal/main"
     type: "markup"
     suffix: ".html"
